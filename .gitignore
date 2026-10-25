@@ -1,2 +1,48 @@
-venv
-data
+# Local Python environments
+venv/
+.venv/
+env/
+
+# Dataset files (often large or privately licensed)
+data/
+
+# Python caches and test/build output
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Computer-vision training outputs and model weights
+runs/
+weights/
+*.pt
+*.pth
+*.onnx
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Editor, operating-system, and temporary files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.swp
+*.swo
