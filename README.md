@@ -3,7 +3,7 @@
 This project utilizes a computer vision dataset hosted on **Roboflow** for object detection.
 
 ### Dataset Overview
-* **Name:** `cv_osa_void` (Version 2)
+* **Name:** `CV_proj_62_63_71` (Version 2)
 * **Type:** Object Detection / Computer Vision
 * **Classes:** 1 class (`void_detection - v1 2025-04-06 7-16pm`)
 * **License:** Private
