@@ -5,7 +5,7 @@ This project utilizes a computer vision dataset hosted on **Roboflow** for objec
 ### Dataset Overview
 * **Name:** `CV_proj_62_63_71` (Version 2)
 * **Type:** Object Detection / Computer Vision
-* **Classes:** 1 class (`void_detection - v1 2025-04-06 7-16pm`)
+* **Classes:** 1 class (`void_detection for warehouse shelfs - v1 2025-04-06 7-16pm`)
 * **License:** Private
 * **Source:** [Roboflow Project Link](https://app.roboflow.com/computer-vision-ajnrr/cv_osa_void/2)
 
